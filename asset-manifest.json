@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portoflio-kareman/static/css/main.6a541c2e.css",
+    "main.js": "/portoflio-kareman/static/js/main.9f1f7964.js",
+    "static/js/453.41811d64.chunk.js": "/portoflio-kareman/static/js/453.41811d64.chunk.js",
+    "static/media/shopping.png": "/portoflio-kareman/static/media/shopping.ab33f6f6bc8924130c5a.png",
+    "static/media/movie.png": "/portoflio-kareman/static/media/movie.e72c4f875b9c35231c4a.png",
+    "static/media/Ecommerce jumia.png": "/portoflio-kareman/static/media/Ecommerce jumia.a6c4b4858b79289da7dd.png",
+    "static/media/linkedin.png": "/portoflio-kareman/static/media/linkedin.6ab2ac472196bfa9856f.png",
+    "static/media/jumiadashboard.png": "/portoflio-kareman/static/media/jumiadashboard.ed613041a2595238395d.png",
+    "static/media/GSAP.png": "/portoflio-kareman/static/media/GSAP.dc93949e47633129f596.png",
+    "static/media/PostgresSQL.png": "/portoflio-kareman/static/media/PostgresSQL.045123cf69a3bfe76dcb.png",
+    "static/media/Spring Tool Suite.png": "/portoflio-kareman/static/media/Spring Tool Suite.4f26ba0f1073b255a50c.png",
+    "static/media/Firebase.png": "/portoflio-kareman/static/media/Firebase.537840208fe3abb15a4c.png",
+    "static/media/Java.png": "/portoflio-kareman/static/media/Java.0f5085ef768f696676da.png",
+    "static/media/chart3.png": "/portoflio-kareman/static/media/chart3.69bef85a1b8026e7c1f1.png",
+    "static/media/C.png": "/portoflio-kareman/static/media/C.8c9ebfca999db25aa7ba.png",
+    "static/media/Postman.png": "/portoflio-kareman/static/media/Postman.6e5519744542e4cf94a3.png",
+    "static/media/VS Code.png": "/portoflio-kareman/static/media/VS Code.ec0e2a1f0d2cde844adb.png",
+    "static/media/Express JS.png": "/portoflio-kareman/static/media/Express JS.51c56d61fe7b2ccedeb2.png",
+    "static/media/C++.png": "/portoflio-kareman/static/media/C++.e71fd381ff2117b50811.png",
+    "static/media/MySQL.png": "/portoflio-kareman/static/media/MySQL.32d0719eb44b2226ac4c.png",
+    "static/media/MongoDB.png": "/portoflio-kareman/static/media/MongoDB.e1afb73651b5a5c94406.png",
+    "static/media/MongoDB Compass.png": "/portoflio-kareman/static/media/MongoDB Compass.aacbd2919f2b7caf902f.png",
+    "static/media/Github.png": "/portoflio-kareman/static/media/Github.eba2ecb9e7675e26420d.png",
+    "static/media/Material UI.png": "/portoflio-kareman/static/media/Material UI.14bf882ef750f3f35945.png",
+    "static/media/SASS.png": "/portoflio-kareman/static/media/SASS.ab1f30eb8120111cf614.png",
+    "static/media/Redux.png": "/portoflio-kareman/static/media/Redux.492ed7d54dd2352c5786.png",
+    "static/media/Springboot.png": "/portoflio-kareman/static/media/Springboot.953ee24309fa38748981.png",
+    "static/media/TypeScript.png": "/portoflio-kareman/static/media/TypeScript.5deb089e87ebcfae9c97.png",
+    "static/media/HTML.png": "/portoflio-kareman/static/media/HTML.be50d4568ab0cb01edb8.png",
+    "static/media/Bootstrap.png": "/portoflio-kareman/static/media/Bootstrap.5f221ec70518e4c64eaa.png",
+    "index.html": "/portoflio-kareman/index.html",
+    "main.6a541c2e.css.map": "/portoflio-kareman/static/css/main.6a541c2e.css.map",
+    "main.9f1f7964.js.map": "/portoflio-kareman/static/js/main.9f1f7964.js.map",
+    "453.41811d64.chunk.js.map": "/portoflio-kareman/static/js/453.41811d64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a541c2e.css",
+    "static/js/main.9f1f7964.js"
+  ]
+}
