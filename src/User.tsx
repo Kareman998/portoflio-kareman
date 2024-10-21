@@ -5,6 +5,8 @@ import Shopping from "./images/shopping.png";
 import Casivu from "./images/chart3.png";
 import jumiaDashboard from "./images/jumiadashboard.png";
 import Movieapp from "./images/movie.png";
+import Iti from "./images/iti.png";
+import Casivu2 from "./images/casivu2.jpg";
 
 const Info = {
   name: "Kareman Ahmed",
@@ -91,23 +93,16 @@ const SkillInfo = [
       "Angular",
       "Redux",
       "Bootstrap",
-      "Redux Toolkit",
+
       "Tailwind CSS",
-      "ShadCN",
+
       "Material UI",
       "Bootstrap",
     ],
   },
   {
     title: "Backend",
-    skills: [
-      "Nest JS",
-      "Node JS",
-      "Express JS",
-      "MySQL",
-      "MongoDB",
-      "Firebase",
-    ],
+    skills: ["Node JS", "Express JS", "MySQL", "MongoDB", "Firebase"],
   },
   {
     title: "Languages",
@@ -138,7 +133,7 @@ const socialLinks = [
 const ExperienceInfo = [
   {
     role: "Front End Developer",
-    // image: "Movieapp",
+    image: Casivu2,
     company: "Casivu",
     date: "Oct 2023 - Present",
     desc: "Led the creation of an ecommerce platform from scratch, using React, Vite, and Firebase. Introduced TypeScript into the project and assisted colleagues in adopting it, enhancing code reliabilityand developer productivity. Worked closely with teammates to design and build smooth, fast features for users",
@@ -156,6 +151,7 @@ const ExperienceInfo = [
   },
   {
     role: "Instructor",
+    image: Iti,
     company: "Information Technology Institute (ITI) ",
     date: "March 2024 - Present",
     desc: " Responsible for teaching and mentoring students in web development and software engineering using technologies like WordPress, MySQL, Angular, JavaScript, ReactJS, NodeJS, and MongoDB, with a focus on hands-on experience and industry-relevant skills.",

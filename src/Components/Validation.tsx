@@ -11,7 +11,8 @@ const validateForm=(id:string, value:any)=>{
         case 'phone':
             if(value.length===0)return "Phone Number is required";
             if(!/^[0-9]*$/.test(value))return "Phone Number is invalid";
-            if(value.length!==10)return "Phone Number must be 10 digits long";
+            if (value.length !== 11)
+              return "Phone Number must be 10 digits long";
             return "";
         case 'message':
             if(value.length===0)return "Message is required";
