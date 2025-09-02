@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/portoflio-kareman/static/css/main.6a541c2e.css",
-    "main.js": "/portoflio-kareman/static/js/main.9f1f7964.js",
+    "main.js": "/portoflio-kareman/static/js/main.d96a786b.js",
     "static/js/453.41811d64.chunk.js": "/portoflio-kareman/static/js/453.41811d64.chunk.js",
     "static/media/shopping.png": "/portoflio-kareman/static/media/shopping.ab33f6f6bc8924130c5a.png",
     "static/media/movie.png": "/portoflio-kareman/static/media/movie.e72c4f875b9c35231c4a.png",
     "static/media/Ecommerce jumia.png": "/portoflio-kareman/static/media/Ecommerce jumia.a6c4b4858b79289da7dd.png",
     "static/media/linkedin.png": "/portoflio-kareman/static/media/linkedin.6ab2ac472196bfa9856f.png",
     "static/media/jumiadashboard.png": "/portoflio-kareman/static/media/jumiadashboard.ed613041a2595238395d.png",
+    "static/media/Dynamic.png": "/portoflio-kareman/static/media/Dynamic.aa2a6a0d5e557a8ebfac.png",
     "static/media/GSAP.png": "/portoflio-kareman/static/media/GSAP.dc93949e47633129f596.png",
     "static/media/PostgresSQL.png": "/portoflio-kareman/static/media/PostgresSQL.045123cf69a3bfe76dcb.png",
     "static/media/Spring Tool Suite.png": "/portoflio-kareman/static/media/Spring Tool Suite.4f26ba0f1073b255a50c.png",
@@ -32,11 +33,11 @@
     "static/media/Bootstrap.png": "/portoflio-kareman/static/media/Bootstrap.5f221ec70518e4c64eaa.png",
     "index.html": "/portoflio-kareman/index.html",
     "main.6a541c2e.css.map": "/portoflio-kareman/static/css/main.6a541c2e.css.map",
-    "main.9f1f7964.js.map": "/portoflio-kareman/static/js/main.9f1f7964.js.map",
+    "main.d96a786b.js.map": "/portoflio-kareman/static/js/main.d96a786b.js.map",
     "453.41811d64.chunk.js.map": "/portoflio-kareman/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a541c2e.css",
-    "static/js/main.9f1f7964.js"
+    "static/js/main.d96a786b.js"
   ]
 }
