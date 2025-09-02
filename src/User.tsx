@@ -7,10 +7,16 @@ import jumiaDashboard from "./images/jumiadashboard.png";
 import Movieapp from "./images/movie.png";
 import Iti from "./images/iti.png";
 import Casivu2 from "./images/casivu2.jpg";
+import Dynamic from "./images/Dynamic.png";
 
 const Info = {
   name: "Kareman Ahmed",
-  stack: ["Software Engineer", "Full Stack MEARN Developer", "Freelancer"],
+  stack: [
+    "Wordpress Developer",
+    "Software Engineer",
+    "Full Stack MEARN Developer",
+    "Freelancer",
+  ],
   bio: "I'm a passionate software engineer specialized in crafting efficient and scalable solutions, deliver top-notch web applications, and provide freelance services that exceed client expectations. Let's connect and create something amazing together!",
 };
 
@@ -93,6 +99,9 @@ const SkillInfo = [
       "Angular",
       "Redux",
       "Bootstrap",
+      " plugins",
+      " themes",
+      "SEO Optimization",
 
       "Tailwind CSS",
 
@@ -131,6 +140,26 @@ const socialLinks = [
 ];
 
 const ExperienceInfo = [
+  {
+    role: "WordPress Developer",
+    image: Dynamic,
+    company: "Dynamic",
+    date: "Present",
+    desc: "Developed and customized professional WordPress websites, including responsive themes and tailored plugins, to deliver optimized solutions for clients in various industries. Focused on enhancing website performance, SEO, and user experience while ensuring scalability and security.",
+    skills: [
+      "WordPress",
+      "Elementor",
+      "WooCommerce",
+      "PHP",
+      "MySQL",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Responsive Design",
+      "SEO Optimization",
+      "Git/GitHub",
+    ],
+  },
   {
     role: "Front End Developer",
     image: Casivu2,
